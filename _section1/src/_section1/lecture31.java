@@ -2,7 +2,7 @@ package _section1;
 
 import java.util.Locale;
 
-public class Main {
+public class lecture31 {
 
 	public static void main(String[] args) {
 		
