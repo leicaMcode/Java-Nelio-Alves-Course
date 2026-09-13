@@ -2,7 +2,7 @@ package section1Exercise;
 
 import java.util.Scanner;
 
-public class finalSectionExercise3 {
+public class finalSectionExercise_03 {
 
 	public static void main(String[] args) {
 		
