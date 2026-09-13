@@ -1,4 +1,4 @@
-package _section1;
+package _section1Lecture;
 
 import java.util.Locale;
 

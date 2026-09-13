@@ -1,4 +1,4 @@
-package _section1;
+package section1Exercise;
 
 public class exercise1 {
 
