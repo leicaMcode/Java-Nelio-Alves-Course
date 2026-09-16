@@ -134,3 +134,22 @@
 2026-09-14 22:40:39.308: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-14 22:40:39.308: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-14 22:58:55.895: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 23:58:04.689: [INFO] CurrentProfilePath: C:\Java Nelio Alves' Course\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 23:58:04.689: [INFO] Profiles total count: 1
+2026-09-15 23:58:04.689: [INFO] Profile: name=Profile 1 path=C:\Java Nelio Alves' Course\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T00:52:23.901Z
+2026-09-15 23:58:04.689: [INFO] LastUsedProfileDir: C:\Java Nelio Alves' Course\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 23:58:04.689: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Java Nelio Alves' Course\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T00:52:23.901Z
+2026-09-15 23:58:04.689: [INFO] OnDoneLoading sync enabled: 0
+2026-09-15 23:58:04.689: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-15 23:58:04.689: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-15 23:58:04.689: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 23:58:06.200: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 00:03:11.659: [INFO] CurrentProfilePath: C:\Java Nelio Alves' Course\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 00:03:11.659: [INFO] Profiles total count: 1
+2026-09-16 00:03:11.659: [INFO] Profile: name=Profile 1 path=C:\Java Nelio Alves' Course\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T00:52:23.901Z
+2026-09-16 00:03:11.659: [INFO] LastUsedProfileDir: C:\Java Nelio Alves' Course\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 00:03:11.659: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Java Nelio Alves' Course\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T00:52:23.901Z
+2026-09-16 00:03:11.659: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 00:03:11.659: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 00:03:11.659: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 00:03:11.659: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
